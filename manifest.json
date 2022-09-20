@@ -1,52 +1,52 @@
 {
-    "name": "Extreme Go Horse",
-    "short_name": "XGH",
+    "name": "Amanda's Mercearia",
+    "short_name": "Amanda's",
     "icons": [
       {
-        "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/128.png",
+        "src": "images/Appiconset/128.png",
         "sizes": "128x128",
         "type": "image/png"
       },
       {
-        "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/144.png",
+        "src": "images/Appiconset/144.png",
         "sizes": "144x144",
         "type": "image/png"
       },
       {
-        "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/152.png",
+        "src": "images/Appiconset/152.png",
         "sizes": "152x152",
         "type": "image/png"
       },
       {
-        "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/167.png",
+        "src": "images/Appiconset/167.png",
         "sizes": "167x167",
         "type": "image/png"
       },
       {
-        "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/180.png",
+        "src": "images/Appiconset/180.png",
         "sizes": "180x180",
         "type": "image/png"
       },
       {
-        "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/196.png",
+        "src": "images/Appiconset/196.png",
         "sizes": "196x196",
         "type": "image/png",
         "purpose": "any maskable"
       },
       {
-        "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/256.png",
+        "src": "images/Appiconset/256.png",
         "sizes": "256x256",
         "type": "image/png"
       },
       {
-        "src": "images/AppIcons/Assets.xcassets/AppIcon.appiconset/_/512.png",
+        "src": "images/Appiconset/512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
     ],
     "start_url": "index.html",
     "display": "standalone",
-    "background_color": "#000000",
+    "background_color": "#FFFFFF",
     "theme_color": "#4D5360",
     "orientation": "any",
     "language": "Portuguese"
